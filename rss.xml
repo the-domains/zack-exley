@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Zack Exley]]></title>
         <description><![CDATA[Zack Exley]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zack-exley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 11:47:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 11:54:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zack-exley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://flyoverthis.files.wordpress.com/2015/03/411807_10151891575090445_339593684_o.jpg?w=1400&h=788">]]></description>
+            <link>https://thegrid.ai/zack-exley/8ee1ef7b-9b07-4f7d-9cc0-972d4b814063/index.html</link>
+            <guid isPermaLink="false">8ee1ef7b-9b07-4f7d-9cc0-972d4b814063</guid>
+            <pubDate>Sat, 30 Apr 2016 11:53:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d2d2267-6b6c-4dca-b9e4-90ebe894d214.jpg">]]></description>
-            <link>undefinedmy-wife-elizabeth-my-daughter-esther-and-i-live-in-a-tiny/index.html</link>
+            <link>https://thegrid.ai/zack-exley/my-wife-elizabeth-my-daughter-esther-and-i-live-in-a-tiny/index.html</link>
             <guid isPermaLink="false">749b739d-29f7-4b49-a0b0-f6825c5b4395</guid>
             <pubDate>Sat, 30 Apr 2016 11:47:21 GMT</pubDate>
         </item>
