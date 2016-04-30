@@ -1,0 +1,28 @@
+name: Zack Exley
+favicon: null
+layout_spectrum: 0.5161850156728178
+typography_spectrum: 0.6784726285841316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8983530069235712
+  lightness: 0.3640801631845534
+  saturation: 0.514120961073786
+  rhythmicContrast: 0.5824297138024122
+purpose: []
