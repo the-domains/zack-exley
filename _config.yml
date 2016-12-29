@@ -1,28 +1,37 @@
-name: Zack Exley
-favicon: null
-layout_spectrum: 0.5161850156728178
-typography_spectrum: 0.6784726285841316
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.2144871595259387
+color:
+  brandColors:
+    - '#354242'
+    - '#ACEBAE'
+    - '#FFFF9D'
+    - '#C9DE55'
+    - '#7D9100'
+  brandStrength: 0.2739363619156809
+  lightness: 0.20254361761392714
+  saturation: 0.9004063973060376
+  rhythmicContrast: 0.02719827632327555
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8983530069235712
-  lightness: 0.3640801631845534
-  saturation: 0.514120961073786
-  rhythmicContrast: 0.5824297138024122
+layout_spectrum: 0.33794239969011214
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Zack Exley
+  email: me@zackexley.com
+  url: zackexley.com
+name: Zack Exley
+url: 'http://zackexley.com'
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Zack Exley
+content: []
+description: Yours for the revolution
 purpose: []
