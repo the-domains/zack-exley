@@ -1,13 +1,13 @@
 ---
-datePublished: '2017-02-06T18:58:11.094Z'
+datePublished: '2017-02-07T14:14:29.936Z'
 sourcePath: _posts/2016-04-30-my-wife-elizabeth-my-daughter-esther-and-i-live-in-a-tiny.md
 inFeed: true
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2017-02-06T18:58:10.742Z'
+dateModified: '2017-02-07T14:14:29.621Z'
 title: ''
 publisher: {}
 description: >-
@@ -20,8 +20,7 @@ description: >-
 inLanguage: null
 starred: false
 datePublishedOriginal: '2016-10-11T03:29:47.705Z'
-url: my-wife-elizabeth-my-daughter-esther-and-i-live-in-a-tiny/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d2d2267-6b6c-4dca-b9e4-90ebe894d214.jpg)
