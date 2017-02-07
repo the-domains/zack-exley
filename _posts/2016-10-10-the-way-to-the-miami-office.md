@@ -1,12 +1,14 @@
 ---
-datePublished: '2017-02-07T14:11:31.573Z'
+datePublished: '2017-02-07T14:12:31.470Z'
 sourcePath: _posts/2016-10-10-the-way-to-the-miami-office.md
 inFeed: true
+isBasedOnUrl: >-
+  https://www.facebook.com/photo.php?fbid=10156650534115445&set=a.10151117092190445.790708.590965444&type=3&theater
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2017-02-07T14:11:31.270Z'
+dateModified: '2017-02-07T14:12:31.066Z'
 title: ''
 app_links: []
 publisher: {}
@@ -23,10 +25,9 @@ description: >-
   from those cases (including our own story!) to rebuild our economy. I’ve
   you’ve got something to talk about, my email address is just my first and last
   name @ gmail.
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2016-10-11T02:58:10.200Z'
-url: hello/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
